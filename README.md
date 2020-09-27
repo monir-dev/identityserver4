@@ -1,5 +1,6 @@
 # identityserver4
-Identity Server 4 practical implementation with entity framework core
+Identity Server 4 practical implementation with entity framework core.
+Official documentations: https://identityserver4.readthedocs.io
 
 
 # Instructions:
