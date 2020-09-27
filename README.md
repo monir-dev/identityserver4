@@ -35,4 +35,5 @@ Add new client to Client List.
         IdentityServerConstants.StandardScopes.Profile,
         "api1"
     }
-}```
+}
+```
