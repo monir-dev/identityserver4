@@ -1,0 +1,10 @@
+alice/alice
+bob/bob
+
+ “alice” and “bob” users. Their passwords are “Pass123$”.
+
+ ResourceOwnerClient – the password will need to be updated to Pass123$ from password.
+
+
+https://identityserver.io/
+https://identitymodel.readthedocs.io/en/latest/
