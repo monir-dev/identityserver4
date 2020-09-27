@@ -18,7 +18,7 @@ There is two client project. "MvcClient" and "JavaScriptClient". Run either one 
 IdentityServer Or IdentityServerAspNetIdentity project has a Config.cs file.
 Add new client to Client List.
 
-new Client
+```new Client
 {
     ClientId = "js",
     ClientName = "JavaScript Client",
@@ -35,4 +35,4 @@ new Client
         IdentityServerConstants.StandardScopes.Profile,
         "api1"
     }
-}
+}```
